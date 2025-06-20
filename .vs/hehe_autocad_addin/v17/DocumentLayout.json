@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D998CE-BA2E-41C3-A562-9898A94818A4}|hehe_autocad_addin\\hehe_autocad_addin.csproj|c:\\users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D998CE-BA2E-41C3-A562-9898A94818A4}|hehe_autocad_addin\\hehe_autocad_addin.csproj|solutionrelative:hehe_autocad_addin\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D998CE-BA2E-41C3-A562-9898A94818A4}|hehe_autocad_addin\\hehe_autocad_addin.csproj|c:\\users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D998CE-BA2E-41C3-A562-9898A94818A4}|hehe_autocad_addin\\hehe_autocad_addin.csproj|solutionrelative:hehe_autocad_addin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D998CE-BA2E-41C3-A562-9898A94818A4}|hehe_autocad_addin\\hehe_autocad_addin.csproj|c:\\users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92D998CE-BA2E-41C3-A562-9898A94818A4}|hehe_autocad_addin\\hehe_autocad_addin.csproj|solutionrelative:hehe_autocad_addin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D998CE-BA2E-41C3-A562-9898A94818A4}|hehe_autocad_addin\\hehe_autocad_addin.csproj|c:\\users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\hehe_autocad_addin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92D998CE-BA2E-41C3-A562-9898A94818A4}|hehe_autocad_addin\\hehe_autocad_addin.csproj|solutionrelative:hehe_autocad_addin\\hehe_autocad_addin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\Commands.cs",
+              "RelativeDocumentMoniker": "hehe_autocad_addin\\Commands.cs",
+              "ToolTip": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\Commands.cs",
+              "RelativeToolTip": "hehe_autocad_addin\\Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T06:41:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\Form1.cs",
+              "RelativeDocumentMoniker": "hehe_autocad_addin\\Form1.cs",
+              "ToolTip": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\Form1.cs",
+              "RelativeToolTip": "hehe_autocad_addin\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T06:36:53.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\Form1.cs",
+              "RelativeDocumentMoniker": "hehe_autocad_addin\\Form1.cs",
+              "ToolTip": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\Form1.cs [Design]",
+              "RelativeToolTip": "hehe_autocad_addin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T06:33:00.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hehe_autocad_addin.csproj",
+              "DocumentMoniker": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\hehe_autocad_addin.csproj",
+              "RelativeDocumentMoniker": "hehe_autocad_addin\\hehe_autocad_addin.csproj",
+              "ToolTip": "C:\\Users\\nawatpim\\source\\repos\\hehe_autocad_addin\\hehe_autocad_addin\\hehe_autocad_addin.csproj",
+              "RelativeToolTip": "hehe_autocad_addin\\hehe_autocad_addin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T05:08:39.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
