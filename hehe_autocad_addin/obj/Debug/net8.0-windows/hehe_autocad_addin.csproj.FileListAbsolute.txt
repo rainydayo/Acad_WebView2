@@ -56,14 +56,15 @@ C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\bin\Debug\n
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\bin\Debug\net8.0-windows\en-US\AcMr.resources.dll
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\bin\Debug\net8.0-windows\en-US\AcWindows.resources.dll
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.csproj.AssemblyReference.cache
+C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.csproj.GenerateResource.cache
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.AssemblyInfoInputs.cache
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.AssemblyInfo.cs
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.csproj.CoreCompileInputs.cache
+C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.sourcelink.json
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_aut.E986B931.Up2Date
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.dll
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\refint\hehe_autocad_addin.dll
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.pdb
 C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\ref\hehe_autocad_addin.dll
-C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.Form1.resources
-C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.csproj.GenerateResource.cache
+C:\Users\nawatpim\source\repos\hehe_autocad_addin\hehe_autocad_addin\obj\Debug\net8.0-windows\hehe_autocad_addin.Bookmark.resources

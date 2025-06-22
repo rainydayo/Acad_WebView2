@@ -7,6 +7,7 @@
 	  <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
 
   <ItemGroup>
@@ -27,5 +28,16 @@
       <HintPath>..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2026\AdWindows.dll</HintPath>
     </Reference>
   </ItemGroup>
+	<Target Name="MoveWebView2Loader" AfterTargets="Build">
+		<ItemGroup>
+			<WebView2LoaderSource Include="$(OutputPath)runtimes\win-x64\native\WebView2Loader.dll" />
+		</ItemGroup>
+
+		<Copy SourceFiles="@(WebView2LoaderSource)"
+			  DestinationFolder="$(OutputPath)"
+			  SkipUnchangedFiles="true"
+			  Condition="Exists('%(WebView2LoaderSource.Identity)')" />
+	</Target>
+
 
 </Project>

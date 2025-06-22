@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hehe_autocad_addin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab6ffa15cd31292052d384a517cfd4a415061bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("hehe_autocad_addin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hehe_autocad_addin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
