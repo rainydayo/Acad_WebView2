@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualBasic;
 using Microsoft.Web.WebView2.Core;
+
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -13,9 +14,20 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 // Import AutoCAD namespaces
+#if ZWCAD
+
+using ZwSoft.ZwCAD.ApplicationServices;
+using ZwSoft.ZwCAD.DatabaseServices;
+using OpenMode = ZwSoft.ZwCAD.DatabaseServices.OpenMode;
+using cad = ZwSoft.ZwCAD;
+
+#else
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.DatabaseServices;
 using OpenMode = Autodesk.AutoCAD.DatabaseServices.OpenMode;
+using cad = Autodesk.AutoCAD;
+#endif
+
 
 namespace hehe_autocad_addin
 {
@@ -436,7 +448,7 @@ namespace hehe_autocad_addin
 
         private void FetchAndDisplayData(string command)
         {
-            var doc = Autodesk.AutoCAD.ApplicationServices.Application.DocumentManager.MdiActiveDocument;
+            var doc = cad.ApplicationServices.Application.DocumentManager.MdiActiveDocument;
             if (doc == null) return;
             var db = doc.Database;
 

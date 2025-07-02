@@ -1,4 +1,10 @@
-﻿namespace hehe_autocad_addin
+﻿#if ZWCAD
+using System.Drawing;
+using System.Windows.Forms;
+
+#endif
+
+namespace hehe_autocad_addin
 {
     partial class Form1
     {

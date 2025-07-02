@@ -1,6 +1,17 @@
-﻿using Autodesk.AutoCAD.Runtime;
+﻿#if ZWCAD
+
+using ZwSoft.ZwCAD.Runtime;
+using ZwSoft.ZwCAD.ApplicationServices;
+using ZwSoft.Windows;
+
+#else
+
+using Autodesk.AutoCAD.Runtime;
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.Windows;
+#endif
+
+
 using System;
 using System.Linq;
 using System.Windows.Input;
@@ -28,16 +39,23 @@ namespace hehe_autocad_addin
             var ribbonControl = ComponentManager.Ribbon;
             if (ribbonControl == null) return;
 
+
+            string tabName = "Add-ins";
+
+#if ZWCAD
+            tabName = "APP+";
+#endif
+
             // Find the built-in "Add-ins" tab by Title
             var tab = ribbonControl.Tabs.FirstOrDefault(t =>
-                t.Title.Equals("Add-ins", StringComparison.InvariantCultureIgnoreCase)
+                t.Title.Equals(tabName, StringComparison.InvariantCultureIgnoreCase)
             );
             if (tab == null)
             {
                 // Create an Add-ins tab if not found
                 tab = new RibbonTab
                 {
-                    Title = "Add-ins",
+                    Title = tabName,
                     Id = "MyAddInsTab"
                 };
                 ribbonControl.Tabs.Add(tab);
